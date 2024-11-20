@@ -1,0 +1,10 @@
+<botcomponent schemaname="crd17_agent.component.VacationRequest">
+  <componenttype>9</componenttype>
+  <iscustomizable>0</iscustomizable>
+  <name>VacationRequest</name>
+  <parentbotid>
+    <schemaname>crd17_agent</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>
