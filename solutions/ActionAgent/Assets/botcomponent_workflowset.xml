@@ -1,8 +1,0 @@
-<botcomponent_workflowset>
-  <botcomponent_workflow botcomponentid.schemaname="crd17_agent.component.AnonymousMessage" workflowid.workflowid="d1d17d9c-72a6-ef11-8a6a-000d3a5ca84b">
-    <iscustomizable>1</iscustomizable>
-  </botcomponent_workflow>
-  <botcomponent_workflow botcomponentid.schemaname="crd17_agent.component.VacationRequest" workflowid.workflowid="4ab34677-71a6-ef11-8a6a-000d3a5ca84b">
-    <iscustomizable>1</iscustomizable>
-  </botcomponent_workflow>
-</botcomponent_workflowset>
